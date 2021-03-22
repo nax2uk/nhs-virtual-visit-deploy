@@ -67,7 +67,7 @@
     "node-sass": "^4.14.0",
     "nookies": "^2.5.2",
     "notifications-node-client": "^4.7.3",
-    "pg-promise": "^10.9.1",
+    "pg-promise": "^10.9.4",
     "query-string": "^6.13.8",
     "react": "16.13.1",
     "react-dom": "16.13.1",
