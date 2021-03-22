@@ -74,7 +74,7 @@
     "tedious": "^9.2.3",
     "uuid": "^8.3.2",
     "uuid-validate": "0.0.3",
-    "webpack": "^4.44.0",
+    "webpack": "^4.46.0",
     "winston": "^3.3.3"
   },
   "devDependencies": {
