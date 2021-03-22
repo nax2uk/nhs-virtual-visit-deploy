@@ -10,7 +10,7 @@
   "author": "Made Tech",
   "license": "MIT",
   "dependencies": {
-    "@azure/cosmos": "^3.9.2"
+    "@azure/cosmos": "^3.9.5"
   },
   "engineStrict": true,
   "engines": {
