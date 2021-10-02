@@ -1,5 +1,5 @@
 # base image
-FROM node:12.16.1
+FROM node:12.22.1
 
 # Create & set app directory
 RUN mkdir -p /usr/src/app
