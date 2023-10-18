@@ -33,7 +33,7 @@
     "dbmigratedry": "db-migrate --dry-run --migrations-dir 'db/migrations/'"
   },
   "dependencies": {
-    "@jc21/cypress-jwt-creation": "0.0.4",
+    "@jc21/cypress-jwt-creation": "0.0.5",
     "@sentry/browser": "^5.30.0",
     "@sentry/node": "^5.30.0",
     "@sentry/webpack-plugin": "^1.11.1",
